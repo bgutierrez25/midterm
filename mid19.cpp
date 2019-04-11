@@ -1,6 +1,6 @@
 //
 //
-//
+//github url: https://github.com/bgutierrez25/midterm
 //Author: Gordon Griesel
 //Date: April 7, 2019
 //Purpose: Framework for a coding exam
